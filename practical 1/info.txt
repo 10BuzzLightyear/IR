@@ -1,0 +1,4 @@
+Document Indexing and Retrieval
+.Implement an inverted index construction algorithm.
+.Build a simple document retrieval system using the constructed
+index.
