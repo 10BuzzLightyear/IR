@@ -50,4 +50,3 @@ print("Documents containing 'apple' and 'banana':", result1)
 print("Documents containing 'apple' or 'orange':", result2)
 print("Documents not containing 'orange':", result3)
 
-print("\nPerformed by 740_Pallavi & 743_Deepak")
