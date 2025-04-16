@@ -1,0 +1,5 @@
+Evaluation Metrics for IR Systems
+A) Calculate precision, recall, and F-measure for a given set of retrieval
+results.
+B) Use an evaluation toolkit to measure average precision and other
+evaluation metrics.
