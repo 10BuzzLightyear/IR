@@ -1,0 +1,4 @@
+Web Crawling and Indexing
+.Develop a web crawler to fetch and index web pages.
+.Handle challenges such as robots.txt, dynamic content, and crawling
+delays.
