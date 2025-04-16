@@ -51,6 +51,3 @@ for term, documents in inverted_index.items():
             print(f"{doc} ({count_doc2}),", end=" ")
     
     print()
-
-# Add a footer for credit
-print("\nPerformed by 740_Pallavi & 743_Deepak")
