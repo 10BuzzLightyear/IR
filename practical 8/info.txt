@@ -1,0 +1,5 @@
+Link Analysis and PageRank
+.Implement the PageRank algorithm to rank web pages based on link
+analysis.
+.Apply the PageRank algorithm to a small web graph and analyse the
+results.
